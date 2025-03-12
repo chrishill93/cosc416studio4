@@ -1,4 +1,5 @@
 using TMPro;
+using UnityEditor;
 using UnityEngine;
 
 public class GameManager : SingletonMonoBehavior<GameManager>
